@@ -1,0 +1,523 @@
+D:\яя\WindowsFormsApp1\WindowsFormsApp1\bin\x64\Debug\WindowsFormsApp1.exe.config
+D:\яя\WindowsFormsApp1\WindowsFormsApp1\bin\x64\Debug\WindowsFormsApp1.exe
+D:\яя\WindowsFormsApp1\WindowsFormsApp1\bin\x64\Debug\WindowsFormsApp1.pdb
+D:\яя\WindowsFormsApp1\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+D:\яя\WindowsFormsApp1\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.Form1.resources
+D:\яя\WindowsFormsApp1\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\яя\WindowsFormsApp1\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\яя\WindowsFormsApp1\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\яя\WindowsFormsApp1\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.exe
+D:\яя\WindowsFormsApp1\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.pdb
+D:\яя\WindowsFormsApp1 — копия\WindowsFormsApp1\bin\x64\Debug\WindowsFormsApp1.exe.config
+D:\яя\WindowsFormsApp1 — копия\WindowsFormsApp1\bin\x64\Debug\WindowsFormsApp1.exe
+D:\яя\WindowsFormsApp1 — копия\WindowsFormsApp1\bin\x64\Debug\WindowsFormsApp1.pdb
+D:\яя\WindowsFormsApp1 — копия\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+D:\яя\WindowsFormsApp1 — копия\WindowsFormsApp1\obj\x64\Debug\Iteration.Iteration.resources
+D:\яя\WindowsFormsApp1 — копия\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\яя\WindowsFormsApp1 — копия\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\яя\WindowsFormsApp1 — копия\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\яя\WindowsFormsApp1 — копия\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.exe
+D:\яя\WindowsFormsApp1 — копия\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.pdb
+D:\яя\Параллельная (CPU)\WindowsFormsApp1\bin\x64\Debug\WindowsFormsApp1.exe.config
+D:\яя\Параллельная (CPU)\WindowsFormsApp1\bin\x64\Debug\WindowsFormsApp1.exe
+D:\яя\Параллельная (CPU)\WindowsFormsApp1\bin\x64\Debug\WindowsFormsApp1.pdb
+D:\яя\Параллельная (CPU)\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+D:\яя\Параллельная (CPU)\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\яя\Параллельная (CPU)\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\яя\Параллельная (CPU)\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\яя\Параллельная (CPU)\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.exe
+D:\яя\Параллельная (CPU)\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.pdb
+D:\яя\Параллельная (CPU)\WindowsFormsApp1\obj\x64\Debug\Result.resources
+D:\яя\Параллельная (GPU)\WindowsFormsApp1\bin\x64\Debug\WindowsFormsApp1.exe.config
+D:\яя\Параллельная (GPU)\WindowsFormsApp1\bin\x64\Debug\WindowsFormsApp1.exe
+D:\яя\Параллельная (GPU)\WindowsFormsApp1\bin\x64\Debug\WindowsFormsApp1.pdb
+D:\яя\Параллельная (GPU)\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+D:\яя\Параллельная (GPU)\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\яя\Параллельная (GPU)\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\яя\Параллельная (GPU)\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\яя\Параллельная (GPU)\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.exe
+D:\яя\Параллельная (GPU)\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.pdb
+D:\яя\Параллельная (GPU)\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.Form1.resources
+D:\яя\Параллельная (GPU)\WindowsFormsApp1\bin\x64\Debug\Alea.dll
+D:\яя\Параллельная (GPU)\WindowsFormsApp1\bin\x64\Debug\Alea.IL.dll
+D:\яя\Параллельная (GPU)\WindowsFormsApp1\bin\x64\Debug\Alea.Parallel.dll
+D:\яя\Параллельная (GPU)\WindowsFormsApp1\bin\x64\Debug\FSharp.Core.dll
+D:\яя\Параллельная (GPU)\WindowsFormsApp1\bin\x64\Debug\Alea.xml
+D:\яя\Параллельная (GPU)\WindowsFormsApp1\bin\x64\Debug\FSharp.Core.xml
+D:\яя\Параллельная (GPU)\WindowsFormsApp1\bin\x64\Debug\cs\FSharp.Core.resources.dll
+D:\яя\Параллельная (GPU)\WindowsFormsApp1\bin\x64\Debug\de\FSharp.Core.resources.dll
+D:\яя\Параллельная (GPU)\WindowsFormsApp1\bin\x64\Debug\es\FSharp.Core.resources.dll
+D:\яя\Параллельная (GPU)\WindowsFormsApp1\bin\x64\Debug\fr\FSharp.Core.resources.dll
+D:\яя\Параллельная (GPU)\WindowsFormsApp1\bin\x64\Debug\it\FSharp.Core.resources.dll
+D:\яя\Параллельная (GPU)\WindowsFormsApp1\bin\x64\Debug\ja\FSharp.Core.resources.dll
+D:\яя\Параллельная (GPU)\WindowsFormsApp1\bin\x64\Debug\ko\FSharp.Core.resources.dll
+D:\яя\Параллельная (GPU)\WindowsFormsApp1\bin\x64\Debug\pl\FSharp.Core.resources.dll
+D:\яя\Параллельная (GPU)\WindowsFormsApp1\bin\x64\Debug\pt-BR\FSharp.Core.resources.dll
+D:\яя\Параллельная (GPU)\WindowsFormsApp1\bin\x64\Debug\ru\FSharp.Core.resources.dll
+D:\яя\Параллельная (GPU)\WindowsFormsApp1\bin\x64\Debug\tr\FSharp.Core.resources.dll
+D:\яя\Параллельная (GPU)\WindowsFormsApp1\bin\x64\Debug\zh-Hans\FSharp.Core.resources.dll
+D:\яя\Параллельная (GPU)\WindowsFormsApp1\bin\x64\Debug\zh-Hant\FSharp.Core.resources.dll
+D:\яя\Параллельная (GPU)\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.csproj.CopyComplete
+D:\яя\Параллельная (GPU) — копия\WindowsFormsApp1\bin\x64\Debug\WindowsFormsApp1.exe.config
+D:\яя\Параллельная (GPU) — копия\WindowsFormsApp1\bin\x64\Debug\WindowsFormsApp1.exe
+D:\яя\Параллельная (GPU) — копия\WindowsFormsApp1\bin\x64\Debug\WindowsFormsApp1.pdb
+D:\яя\Параллельная (GPU) — копия\WindowsFormsApp1\bin\x64\Debug\Alea.dll
+D:\яя\Параллельная (GPU) — копия\WindowsFormsApp1\bin\x64\Debug\Alea.IL.dll
+D:\яя\Параллельная (GPU) — копия\WindowsFormsApp1\bin\x64\Debug\Alea.Parallel.dll
+D:\яя\Параллельная (GPU) — копия\WindowsFormsApp1\bin\x64\Debug\FSharp.Core.dll
+D:\яя\Параллельная (GPU) — копия\WindowsFormsApp1\bin\x64\Debug\Alea.xml
+D:\яя\Параллельная (GPU) — копия\WindowsFormsApp1\bin\x64\Debug\FSharp.Core.xml
+D:\яя\Параллельная (GPU) — копия\WindowsFormsApp1\bin\x64\Debug\cs\FSharp.Core.resources.dll
+D:\яя\Параллельная (GPU) — копия\WindowsFormsApp1\bin\x64\Debug\de\FSharp.Core.resources.dll
+D:\яя\Параллельная (GPU) — копия\WindowsFormsApp1\bin\x64\Debug\es\FSharp.Core.resources.dll
+D:\яя\Параллельная (GPU) — копия\WindowsFormsApp1\bin\x64\Debug\fr\FSharp.Core.resources.dll
+D:\яя\Параллельная (GPU) — копия\WindowsFormsApp1\bin\x64\Debug\it\FSharp.Core.resources.dll
+D:\яя\Параллельная (GPU) — копия\WindowsFormsApp1\bin\x64\Debug\ja\FSharp.Core.resources.dll
+D:\яя\Параллельная (GPU) — копия\WindowsFormsApp1\bin\x64\Debug\ko\FSharp.Core.resources.dll
+D:\яя\Параллельная (GPU) — копия\WindowsFormsApp1\bin\x64\Debug\pl\FSharp.Core.resources.dll
+D:\яя\Параллельная (GPU) — копия\WindowsFormsApp1\bin\x64\Debug\pt-BR\FSharp.Core.resources.dll
+D:\яя\Параллельная (GPU) — копия\WindowsFormsApp1\bin\x64\Debug\ru\FSharp.Core.resources.dll
+D:\яя\Параллельная (GPU) — копия\WindowsFormsApp1\bin\x64\Debug\tr\FSharp.Core.resources.dll
+D:\яя\Параллельная (GPU) — копия\WindowsFormsApp1\bin\x64\Debug\zh-Hans\FSharp.Core.resources.dll
+D:\яя\Параллельная (GPU) — копия\WindowsFormsApp1\bin\x64\Debug\zh-Hant\FSharp.Core.resources.dll
+D:\яя\Параллельная (GPU) — копия\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+D:\яя\Параллельная (GPU) — копия\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.Form1.resources
+D:\яя\Параллельная (GPU) — копия\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\яя\Параллельная (GPU) — копия\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\яя\Параллельная (GPU) — копия\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\яя\Параллельная (GPU) — копия\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.csproj.CopyComplete
+D:\яя\Параллельная (GPU) — копия\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.exe
+D:\яя\Параллельная (GPU) — копия\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.pdb
+D:\яя\Параллельная (GPU) — копия — копия\WindowsFormsApp1\bin\x64\Debug\WindowsFormsApp1.exe.config
+D:\яя\Параллельная (GPU) — копия — копия\WindowsFormsApp1\bin\x64\Debug\WindowsFormsApp1.exe
+D:\яя\Параллельная (GPU) — копия — копия\WindowsFormsApp1\bin\x64\Debug\WindowsFormsApp1.pdb
+D:\яя\Параллельная (GPU) — копия — копия\WindowsFormsApp1\bin\x64\Debug\Alea.dll
+D:\яя\Параллельная (GPU) — копия — копия\WindowsFormsApp1\bin\x64\Debug\Alea.IL.dll
+D:\яя\Параллельная (GPU) — копия — копия\WindowsFormsApp1\bin\x64\Debug\Alea.Parallel.dll
+D:\яя\Параллельная (GPU) — копия — копия\WindowsFormsApp1\bin\x64\Debug\FSharp.Core.dll
+D:\яя\Параллельная (GPU) — копия — копия\WindowsFormsApp1\bin\x64\Debug\Alea.xml
+D:\яя\Параллельная (GPU) — копия — копия\WindowsFormsApp1\bin\x64\Debug\FSharp.Core.xml
+D:\яя\Параллельная (GPU) — копия — копия\WindowsFormsApp1\bin\x64\Debug\cs\FSharp.Core.resources.dll
+D:\яя\Параллельная (GPU) — копия — копия\WindowsFormsApp1\bin\x64\Debug\de\FSharp.Core.resources.dll
+D:\яя\Параллельная (GPU) — копия — копия\WindowsFormsApp1\bin\x64\Debug\es\FSharp.Core.resources.dll
+D:\яя\Параллельная (GPU) — копия — копия\WindowsFormsApp1\bin\x64\Debug\fr\FSharp.Core.resources.dll
+D:\яя\Параллельная (GPU) — копия — копия\WindowsFormsApp1\bin\x64\Debug\it\FSharp.Core.resources.dll
+D:\яя\Параллельная (GPU) — копия — копия\WindowsFormsApp1\bin\x64\Debug\ja\FSharp.Core.resources.dll
+D:\яя\Параллельная (GPU) — копия — копия\WindowsFormsApp1\bin\x64\Debug\ko\FSharp.Core.resources.dll
+D:\яя\Параллельная (GPU) — копия — копия\WindowsFormsApp1\bin\x64\Debug\pl\FSharp.Core.resources.dll
+D:\яя\Параллельная (GPU) — копия — копия\WindowsFormsApp1\bin\x64\Debug\pt-BR\FSharp.Core.resources.dll
+D:\яя\Параллельная (GPU) — копия — копия\WindowsFormsApp1\bin\x64\Debug\ru\FSharp.Core.resources.dll
+D:\яя\Параллельная (GPU) — копия — копия\WindowsFormsApp1\bin\x64\Debug\tr\FSharp.Core.resources.dll
+D:\яя\Параллельная (GPU) — копия — копия\WindowsFormsApp1\bin\x64\Debug\zh-Hans\FSharp.Core.resources.dll
+D:\яя\Параллельная (GPU) — копия — копия\WindowsFormsApp1\bin\x64\Debug\zh-Hant\FSharp.Core.resources.dll
+D:\яя\Параллельная (GPU) — копия — копия\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+D:\яя\Параллельная (GPU) — копия — копия\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\яя\Параллельная (GPU) — копия — копия\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\яя\Параллельная (GPU) — копия — копия\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\яя\Параллельная (GPU) — копия — копия\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.csproj.CopyComplete
+D:\яя\Параллельная (GPU) — копия — копия\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.exe
+D:\яя\Параллельная (GPU) — копия — копия\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.pdb
+D:\яя\Параллельная (GPU) — копия — копия\WindowsFormsApp1\obj\x64\Debug\ResultClass.resources
+D:\яя\Параллельная (GPU) — копия — копия — копия — копия (2)\WindowsFormsApp1\bin\x64\Debug\WindowsFormsApp1.exe.config
+D:\яя\Параллельная (GPU) — копия — копия — копия — копия (2)\WindowsFormsApp1\bin\x64\Debug\WindowsFormsApp1.exe
+D:\яя\Параллельная (GPU) — копия — копия — копия — копия (2)\WindowsFormsApp1\bin\x64\Debug\WindowsFormsApp1.pdb
+D:\яя\Параллельная (GPU) — копия — копия — копия — копия (2)\WindowsFormsApp1\bin\x64\Debug\Alea.dll
+D:\яя\Параллельная (GPU) — копия — копия — копия — копия (2)\WindowsFormsApp1\bin\x64\Debug\Alea.IL.dll
+D:\яя\Параллельная (GPU) — копия — копия — копия — копия (2)\WindowsFormsApp1\bin\x64\Debug\Alea.Parallel.dll
+D:\яя\Параллельная (GPU) — копия — копия — копия — копия (2)\WindowsFormsApp1\bin\x64\Debug\FSharp.Core.dll
+D:\яя\Параллельная (GPU) — копия — копия — копия — копия (2)\WindowsFormsApp1\bin\x64\Debug\Alea.xml
+D:\яя\Параллельная (GPU) — копия — копия — копия — копия (2)\WindowsFormsApp1\bin\x64\Debug\FSharp.Core.xml
+D:\яя\Параллельная (GPU) — копия — копия — копия — копия (2)\WindowsFormsApp1\bin\x64\Debug\cs\FSharp.Core.resources.dll
+D:\яя\Параллельная (GPU) — копия — копия — копия — копия (2)\WindowsFormsApp1\bin\x64\Debug\de\FSharp.Core.resources.dll
+D:\яя\Параллельная (GPU) — копия — копия — копия — копия (2)\WindowsFormsApp1\bin\x64\Debug\es\FSharp.Core.resources.dll
+D:\яя\Параллельная (GPU) — копия — копия — копия — копия (2)\WindowsFormsApp1\bin\x64\Debug\fr\FSharp.Core.resources.dll
+D:\яя\Параллельная (GPU) — копия — копия — копия — копия (2)\WindowsFormsApp1\bin\x64\Debug\it\FSharp.Core.resources.dll
+D:\яя\Параллельная (GPU) — копия — копия — копия — копия (2)\WindowsFormsApp1\bin\x64\Debug\ja\FSharp.Core.resources.dll
+D:\яя\Параллельная (GPU) — копия — копия — копия — копия (2)\WindowsFormsApp1\bin\x64\Debug\ko\FSharp.Core.resources.dll
+D:\яя\Параллельная (GPU) — копия — копия — копия — копия (2)\WindowsFormsApp1\bin\x64\Debug\pl\FSharp.Core.resources.dll
+D:\яя\Параллельная (GPU) — копия — копия — копия — копия (2)\WindowsFormsApp1\bin\x64\Debug\pt-BR\FSharp.Core.resources.dll
+D:\яя\Параллельная (GPU) — копия — копия — копия — копия (2)\WindowsFormsApp1\bin\x64\Debug\ru\FSharp.Core.resources.dll
+D:\яя\Параллельная (GPU) — копия — копия — копия — копия (2)\WindowsFormsApp1\bin\x64\Debug\tr\FSharp.Core.resources.dll
+D:\яя\Параллельная (GPU) — копия — копия — копия — копия (2)\WindowsFormsApp1\bin\x64\Debug\zh-Hans\FSharp.Core.resources.dll
+D:\яя\Параллельная (GPU) — копия — копия — копия — копия (2)\WindowsFormsApp1\bin\x64\Debug\zh-Hant\FSharp.Core.resources.dll
+D:\яя\Параллельная (GPU) — копия — копия — копия — копия (2)\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+D:\яя\Параллельная (GPU) — копия — копия — копия — копия (2)\WindowsFormsApp1\obj\x64\Debug\ResultClass.resources
+D:\яя\Параллельная (GPU) — копия — копия — копия — копия (2)\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\яя\Параллельная (GPU) — копия — копия — копия — копия (2)\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\яя\Параллельная (GPU) — копия — копия — копия — копия (2)\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\яя\Параллельная (GPU) — копия — копия — копия — копия (2)\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.csproj.CopyComplete
+D:\яя\Параллельная (GPU) — копия — копия — копия — копия (2)\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.exe
+D:\яя\Параллельная (GPU) — копия — копия — копия — копия (2)\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.pdb
+D:\яя\Параллельная (GPU) — копия — копия — копия — копия (2) — копия\WindowsFormsApp1\bin\x64\Debug\WindowsFormsApp1.exe.config
+D:\яя\Параллельная (GPU) — копия — копия — копия — копия (2) — копия\WindowsFormsApp1\bin\x64\Debug\WindowsFormsApp1.exe
+D:\яя\Параллельная (GPU) — копия — копия — копия — копия (2) — копия\WindowsFormsApp1\bin\x64\Debug\WindowsFormsApp1.pdb
+D:\яя\Параллельная (GPU) — копия — копия — копия — копия (2) — копия\WindowsFormsApp1\bin\x64\Debug\Alea.dll
+D:\яя\Параллельная (GPU) — копия — копия — копия — копия (2) — копия\WindowsFormsApp1\bin\x64\Debug\Alea.IL.dll
+D:\яя\Параллельная (GPU) — копия — копия — копия — копия (2) — копия\WindowsFormsApp1\bin\x64\Debug\Alea.Parallel.dll
+D:\яя\Параллельная (GPU) — копия — копия — копия — копия (2) — копия\WindowsFormsApp1\bin\x64\Debug\FSharp.Core.dll
+D:\яя\Параллельная (GPU) — копия — копия — копия — копия (2) — копия\WindowsFormsApp1\bin\x64\Debug\Alea.xml
+D:\яя\Параллельная (GPU) — копия — копия — копия — копия (2) — копия\WindowsFormsApp1\bin\x64\Debug\FSharp.Core.xml
+D:\яя\Параллельная (GPU) — копия — копия — копия — копия (2) — копия\WindowsFormsApp1\bin\x64\Debug\cs\FSharp.Core.resources.dll
+D:\яя\Параллельная (GPU) — копия — копия — копия — копия (2) — копия\WindowsFormsApp1\bin\x64\Debug\de\FSharp.Core.resources.dll
+D:\яя\Параллельная (GPU) — копия — копия — копия — копия (2) — копия\WindowsFormsApp1\bin\x64\Debug\es\FSharp.Core.resources.dll
+D:\яя\Параллельная (GPU) — копия — копия — копия — копия (2) — копия\WindowsFormsApp1\bin\x64\Debug\fr\FSharp.Core.resources.dll
+D:\яя\Параллельная (GPU) — копия — копия — копия — копия (2) — копия\WindowsFormsApp1\bin\x64\Debug\it\FSharp.Core.resources.dll
+D:\яя\Параллельная (GPU) — копия — копия — копия — копия (2) — копия\WindowsFormsApp1\bin\x64\Debug\ja\FSharp.Core.resources.dll
+D:\яя\Параллельная (GPU) — копия — копия — копия — копия (2) — копия\WindowsFormsApp1\bin\x64\Debug\ko\FSharp.Core.resources.dll
+D:\яя\Параллельная (GPU) — копия — копия — копия — копия (2) — копия\WindowsFormsApp1\bin\x64\Debug\pl\FSharp.Core.resources.dll
+D:\яя\Параллельная (GPU) — копия — копия — копия — копия (2) — копия\WindowsFormsApp1\bin\x64\Debug\pt-BR\FSharp.Core.resources.dll
+D:\яя\Параллельная (GPU) — копия — копия — копия — копия (2) — копия\WindowsFormsApp1\bin\x64\Debug\ru\FSharp.Core.resources.dll
+D:\яя\Параллельная (GPU) — копия — копия — копия — копия (2) — копия\WindowsFormsApp1\bin\x64\Debug\tr\FSharp.Core.resources.dll
+D:\яя\Параллельная (GPU) — копия — копия — копия — копия (2) — копия\WindowsFormsApp1\bin\x64\Debug\zh-Hans\FSharp.Core.resources.dll
+D:\яя\Параллельная (GPU) — копия — копия — копия — копия (2) — копия\WindowsFormsApp1\bin\x64\Debug\zh-Hant\FSharp.Core.resources.dll
+D:\яя\Параллельная (GPU) — копия — копия — копия — копия (2) — копия\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+D:\яя\Параллельная (GPU) — копия — копия — копия — копия (2) — копия\WindowsFormsApp1\obj\x64\Debug\ResultClass.resources
+D:\яя\Параллельная (GPU) — копия — копия — копия — копия (2) — копия\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\яя\Параллельная (GPU) — копия — копия — копия — копия (2) — копия\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\яя\Параллельная (GPU) — копия — копия — копия — копия (2) — копия\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\яя\Параллельная (GPU) — копия — копия — копия — копия (2) — копия\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.csproj.CopyComplete
+D:\яя\Параллельная (GPU) — копия — копия — копия — копия (2) — копия\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.exe
+D:\яя\Параллельная (GPU) — копия — копия — копия — копия (2) — копия\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.pdb
+D:\яя\Параллельная (GPU) — копия — копия — копия — копия (2) — копия — копия\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+D:\яя\Параллельная (GPU) — копия — копия — копия — копия (2) — копия — копия\WindowsFormsApp1\obj\x64\Debug\ResultClass.resources
+D:\яя\Параллельная (GPU) — копия — копия — копия — копия (2) — копия — копия\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\яя\Параллельная (GPU) — копия — копия — копия — копия (2) — копия — копия\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\яя\Параллельная (GPU) — копия — копия — копия — копия (2) — копия — копия\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\яя\Параллельная (GPU) — копия — копия — копия — копия (2) — копия — копия\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.exe
+D:\яя\Параллельная (GPU) — копия — копия — копия — копия (2) — копия — копия\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.pdb
+D:\яя\Параллельная (GPU) — копия — копия — копия — копия (2) — копия — копия\WindowsFormsApp1\bin\x64\Debug\WindowsFormsApp1.exe.config
+D:\яя\Параллельная (GPU) — копия — копия — копия — копия (2) — копия — копия\WindowsFormsApp1\bin\x64\Debug\WindowsFormsApp1.exe
+D:\яя\Параллельная (GPU) — копия — копия — копия — копия (2) — копия — копия\WindowsFormsApp1\bin\x64\Debug\WindowsFormsApp1.pdb
+D:\яя\Параллельная (GPU) — копия — копия — копия — копия (2) — копия — копия\WindowsFormsApp1\bin\x64\Debug\Alea.dll
+D:\яя\Параллельная (GPU) — копия — копия — копия — копия (2) — копия — копия\WindowsFormsApp1\bin\x64\Debug\Alea.IL.dll
+D:\яя\Параллельная (GPU) — копия — копия — копия — копия (2) — копия — копия\WindowsFormsApp1\bin\x64\Debug\Alea.Parallel.dll
+D:\яя\Параллельная (GPU) — копия — копия — копия — копия (2) — копия — копия\WindowsFormsApp1\bin\x64\Debug\FSharp.Core.dll
+D:\яя\Параллельная (GPU) — копия — копия — копия — копия (2) — копия — копия\WindowsFormsApp1\bin\x64\Debug\Alea.xml
+D:\яя\Параллельная (GPU) — копия — копия — копия — копия (2) — копия — копия\WindowsFormsApp1\bin\x64\Debug\FSharp.Core.xml
+D:\яя\Параллельная (GPU) — копия — копия — копия — копия (2) — копия — копия\WindowsFormsApp1\bin\x64\Debug\cs\FSharp.Core.resources.dll
+D:\яя\Параллельная (GPU) — копия — копия — копия — копия (2) — копия — копия\WindowsFormsApp1\bin\x64\Debug\de\FSharp.Core.resources.dll
+D:\яя\Параллельная (GPU) — копия — копия — копия — копия (2) — копия — копия\WindowsFormsApp1\bin\x64\Debug\es\FSharp.Core.resources.dll
+D:\яя\Параллельная (GPU) — копия — копия — копия — копия (2) — копия — копия\WindowsFormsApp1\bin\x64\Debug\fr\FSharp.Core.resources.dll
+D:\яя\Параллельная (GPU) — копия — копия — копия — копия (2) — копия — копия\WindowsFormsApp1\bin\x64\Debug\it\FSharp.Core.resources.dll
+D:\яя\Параллельная (GPU) — копия — копия — копия — копия (2) — копия — копия\WindowsFormsApp1\bin\x64\Debug\ja\FSharp.Core.resources.dll
+D:\яя\Параллельная (GPU) — копия — копия — копия — копия (2) — копия — копия\WindowsFormsApp1\bin\x64\Debug\ko\FSharp.Core.resources.dll
+D:\яя\Параллельная (GPU) — копия — копия — копия — копия (2) — копия — копия\WindowsFormsApp1\bin\x64\Debug\pl\FSharp.Core.resources.dll
+D:\яя\Параллельная (GPU) — копия — копия — копия — копия (2) — копия — копия\WindowsFormsApp1\bin\x64\Debug\pt-BR\FSharp.Core.resources.dll
+D:\яя\Параллельная (GPU) — копия — копия — копия — копия (2) — копия — копия\WindowsFormsApp1\bin\x64\Debug\ru\FSharp.Core.resources.dll
+D:\яя\Параллельная (GPU) — копия — копия — копия — копия (2) — копия — копия\WindowsFormsApp1\bin\x64\Debug\tr\FSharp.Core.resources.dll
+D:\яя\Параллельная (GPU) — копия — копия — копия — копия (2) — копия — копия\WindowsFormsApp1\bin\x64\Debug\zh-Hans\FSharp.Core.resources.dll
+D:\яя\Параллельная (GPU) — копия — копия — копия — копия (2) — копия — копия\WindowsFormsApp1\bin\x64\Debug\zh-Hant\FSharp.Core.resources.dll
+D:\яя\Параллельная (GPU) — копия — копия — копия — копия (2) — копия — копия\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.csproj.CopyComplete
+D:\яя\Параллельная (CPU-I)\WindowsFormsApp1\bin\x64\Debug\WindowsFormsApp1.exe.config
+D:\яя\Параллельная (CPU-I)\WindowsFormsApp1\bin\x64\Debug\WindowsFormsApp1.exe
+D:\яя\Параллельная (CPU-I)\WindowsFormsApp1\bin\x64\Debug\WindowsFormsApp1.pdb
+D:\яя\Параллельная (CPU-I)\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+D:\яя\Параллельная (CPU-I)\WindowsFormsApp1\obj\x64\Debug\ResultClass.resources
+D:\яя\Параллельная (CPU-I)\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\яя\Параллельная (CPU-I)\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\яя\Параллельная (CPU-I)\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\яя\Параллельная (CPU-I)\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.exe
+D:\яя\Параллельная (CPU-I)\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.pdb
+D:\яя\Параллельная (CPU-IF)\WindowsFormsApp1\bin\x64\Debug\WindowsFormsApp1.exe.config
+D:\яя\Параллельная (CPU-IF)\WindowsFormsApp1\bin\x64\Debug\WindowsFormsApp1.exe
+D:\яя\Параллельная (CPU-IF)\WindowsFormsApp1\bin\x64\Debug\WindowsFormsApp1.pdb
+D:\яя\Параллельная (CPU-IF)\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+D:\яя\Параллельная (CPU-IF)\WindowsFormsApp1\obj\x64\Debug\ResultClass.resources
+D:\яя\Параллельная (CPU-IF)\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\яя\Параллельная (CPU-IF)\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\яя\Параллельная (CPU-IF)\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\яя\Параллельная (CPU-IF)\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.exe
+D:\яя\Параллельная (CPU-IF)\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.pdb
+D:\яя\Расчёт настроек 2.00\Параллельная (CPU-I)\WindowsFormsApp1\bin\x64\Debug\WindowsFormsApp1.exe.config
+D:\яя\Расчёт настроек 2.00\Параллельная (CPU-I)\WindowsFormsApp1\bin\x64\Debug\WindowsFormsApp1.exe
+D:\яя\Расчёт настроек 2.00\Параллельная (CPU-I)\WindowsFormsApp1\bin\x64\Debug\WindowsFormsApp1.pdb
+D:\яя\Расчёт настроек 2.00\Параллельная (CPU-I)\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+D:\яя\Расчёт настроек 2.00\Параллельная (CPU-I)\WindowsFormsApp1\obj\x64\Debug\ResultClass.resources
+D:\яя\Расчёт настроек 2.00\Параллельная (CPU-I)\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\яя\Расчёт настроек 2.00\Параллельная (CPU-I)\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\яя\Расчёт настроек 2.00\Параллельная (CPU-I)\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\яя\Расчёт настроек 2.00\Параллельная (CPU-I)\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.exe
+D:\яя\Расчёт настроек 2.00\Параллельная (CPU-I)\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.pdb
+D:\яя\Инвестиционный проект\Расчёт настроек 2.00\Программа\Параллельная (CPU-I)\WindowsFormsApp1\bin\x64\Debug\WindowsFormsApp1.exe.config
+D:\яя\Инвестиционный проект\Расчёт настроек 2.00\Программа\Параллельная (CPU-I)\WindowsFormsApp1\bin\x64\Debug\WindowsFormsApp1.exe
+D:\яя\Инвестиционный проект\Расчёт настроек 2.00\Программа\Параллельная (CPU-I)\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+D:\яя\Инвестиционный проект\Расчёт настроек 2.00\Программа\Параллельная (CPU-I)\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.Form1.resources
+D:\яя\Инвестиционный проект\Расчёт настроек 2.00\Программа\Параллельная (CPU-I)\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\яя\Инвестиционный проект\Расчёт настроек 2.00\Программа\Параллельная (CPU-I)\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\яя\Инвестиционный проект\Расчёт настроек 2.00\Программа\Параллельная (CPU-I)\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\яя\Инвестиционный проект\Расчёт настроек 2.00\Программа\Параллельная (CPU-I)\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.exe
+D:\яя\Инвестиционный проект\Расчёт настроек 2.00\Программа\Параллельная (CPU-I)\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.pdb
+D:\яя\Инвестиционный проект\Расчёт настроек 2.00\Программа\Параллельная (CPU-I)\WindowsFormsApp1\bin\x64\Debug\WindowsFormsApp1.pdb
+D:\яя\Инвестиционный проект\Программы\Расчёт настроек 2.00\Программа\Параллельная (CPU-I)\WindowsFormsApp1\bin\x64\Debug\WindowsFormsApp1.exe.config
+D:\яя\Инвестиционный проект\Программы\Расчёт настроек 2.00\Программа\Параллельная (CPU-I)\WindowsFormsApp1\bin\x64\Debug\WindowsFormsApp1.exe
+D:\яя\Инвестиционный проект\Программы\Расчёт настроек 2.00\Программа\Параллельная (CPU-I)\WindowsFormsApp1\bin\x64\Debug\WindowsFormsApp1.pdb
+D:\яя\Инвестиционный проект\Программы\Расчёт настроек 2.00\Программа\Параллельная (CPU-I)\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+D:\яя\Инвестиционный проект\Программы\Расчёт настроек 2.00\Программа\Параллельная (CPU-I)\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.Form1.resources
+D:\яя\Инвестиционный проект\Программы\Расчёт настроек 2.00\Программа\Параллельная (CPU-I)\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\яя\Инвестиционный проект\Программы\Расчёт настроек 2.00\Программа\Параллельная (CPU-I)\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\яя\Инвестиционный проект\Программы\Расчёт настроек 2.00\Программа\Параллельная (CPU-I)\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\яя\Инвестиционный проект\Программы\Расчёт настроек 2.00\Программа\Параллельная (CPU-I)\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.exe
+D:\яя\Инвестиционный проект\Программы\Расчёт настроек 2.00\Программа\Параллельная (CPU-I)\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.pdb
+D:\Рабочий стол\Инвестиционный проект\Программы\Расчёт настроек 2.00\Программа\Параллельная (CPU-I)\WindowsFormsApp1\bin\x64\Debug\WindowsFormsApp1.exe.config
+D:\Рабочий стол\Инвестиционный проект\Программы\Расчёт настроек 2.00\Программа\Параллельная (CPU-I)\WindowsFormsApp1\bin\x64\Debug\WindowsFormsApp1.exe
+D:\Рабочий стол\Инвестиционный проект\Программы\Расчёт настроек 2.00\Программа\Параллельная (CPU-I)\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+D:\Рабочий стол\Инвестиционный проект\Программы\Расчёт настроек 2.00\Программа\Параллельная (CPU-I)\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+D:\Рабочий стол\Инвестиционный проект\Программы\Расчёт настроек 2.00\Программа\Параллельная (CPU-I)\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.Form1.resources
+D:\Рабочий стол\Инвестиционный проект\Программы\Расчёт настроек 2.00\Программа\Параллельная (CPU-I)\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\Рабочий стол\Инвестиционный проект\Программы\Расчёт настроек 2.00\Программа\Параллельная (CPU-I)\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\Рабочий стол\Инвестиционный проект\Программы\Расчёт настроек 2.00\Программа\Параллельная (CPU-I)\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\Рабочий стол\Инвестиционный проект\Программы\Расчёт настроек 2.00\Программа\Параллельная (CPU-I)\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.exe
+D:\Рабочий стол\Инвестиционный проект\Программы\Расчёт настроек 2.00\Программа\Параллельная (CPU-I)\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.pdb
+D:\Рабочий стол\Инвестиционный проект\Программы\Расчёт настроек 2.00\Программа\Параллельная (CPU-I)\WindowsFormsApp1\bin\x64\Debug\WindowsFormsApp1.pdb
+D:\Рабочий стол\Инвестиционный проект\Программы\Расчёт настроек 2.00\Программа\Параллельная (CPU-I) [используемое до 05.12.21]\WindowsFormsApp1\bin\x64\Debug\WindowsFormsApp1.exe.config
+D:\Рабочий стол\Инвестиционный проект\Программы\Расчёт настроек 2.00\Программа\Параллельная (CPU-I) [используемое до 05.12.21]\WindowsFormsApp1\bin\x64\Debug\WindowsFormsApp1.exe
+D:\Рабочий стол\Инвестиционный проект\Программы\Расчёт настроек 2.00\Программа\Параллельная (CPU-I) [используемое до 05.12.21]\WindowsFormsApp1\bin\x64\Debug\WindowsFormsApp1.pdb
+D:\Рабочий стол\Инвестиционный проект\Программы\Расчёт настроек 2.00\Программа\Параллельная (CPU-I) [используемое до 05.12.21]\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+D:\Рабочий стол\Инвестиционный проект\Программы\Расчёт настроек 2.00\Программа\Параллельная (CPU-I) [используемое до 05.12.21]\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+D:\Рабочий стол\Инвестиционный проект\Программы\Расчёт настроек 2.00\Программа\Параллельная (CPU-I) [используемое до 05.12.21]\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.Form1.resources
+D:\Рабочий стол\Инвестиционный проект\Программы\Расчёт настроек 2.00\Программа\Параллельная (CPU-I) [используемое до 05.12.21]\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\Рабочий стол\Инвестиционный проект\Программы\Расчёт настроек 2.00\Программа\Параллельная (CPU-I) [используемое до 05.12.21]\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\Рабочий стол\Инвестиционный проект\Программы\Расчёт настроек 2.00\Программа\Параллельная (CPU-I) [используемое до 05.12.21]\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\Рабочий стол\Инвестиционный проект\Программы\Расчёт настроек 2.00\Программа\Параллельная (CPU-I) [используемое до 05.12.21]\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.exe
+D:\Рабочий стол\Инвестиционный проект\Программы\Расчёт настроек 2.00\Программа\Параллельная (CPU-I) [используемое до 05.12.21]\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.pdb
+D:\Рабочий стол\Инвестиционный проект\Программы\Расчёт настроек 2.00\Программа\Новая папка\WindowsFormsApp1\bin\x64\Debug\WindowsFormsApp1.exe.config
+D:\Рабочий стол\Инвестиционный проект\Программы\Расчёт настроек 2.00\Программа\Новая папка\WindowsFormsApp1\bin\x64\Debug\WindowsFormsApp1.exe
+D:\Рабочий стол\Инвестиционный проект\Программы\Расчёт настроек 2.00\Программа\Новая папка\WindowsFormsApp1\bin\x64\Debug\WindowsFormsApp1.pdb
+D:\Рабочий стол\Инвестиционный проект\Программы\Расчёт настроек 2.00\Программа\Новая папка\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+D:\Рабочий стол\Инвестиционный проект\Программы\Расчёт настроек 2.00\Программа\Новая папка\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+D:\Рабочий стол\Инвестиционный проект\Программы\Расчёт настроек 2.00\Программа\Новая папка\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.Form1.resources
+D:\Рабочий стол\Инвестиционный проект\Программы\Расчёт настроек 2.00\Программа\Новая папка\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\Рабочий стол\Инвестиционный проект\Программы\Расчёт настроек 2.00\Программа\Новая папка\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\Рабочий стол\Инвестиционный проект\Программы\Расчёт настроек 2.00\Программа\Новая папка\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\Рабочий стол\Инвестиционный проект\Программы\Расчёт настроек 2.00\Программа\Новая папка\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.exe
+D:\Рабочий стол\Инвестиционный проект\Программы\Расчёт настроек 2.00\Программа\Новая папка\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.pdb
+D:\Рабочий стол\Инвестиционный проект\Программы\Расчёт настроек 2.00\Программа\Параллельная (CPU-I) [используемое до 11.12.21] — копия\WindowsFormsApp1\bin\x64\Debug\WindowsFormsApp1.exe.config
+D:\Рабочий стол\Инвестиционный проект\Программы\Расчёт настроек 2.00\Программа\Параллельная (CPU-I) [используемое до 11.12.21] — копия\WindowsFormsApp1\bin\x64\Debug\WindowsFormsApp1.exe
+D:\Рабочий стол\Инвестиционный проект\Программы\Расчёт настроек 2.00\Программа\Параллельная (CPU-I) [используемое до 11.12.21] — копия\WindowsFormsApp1\bin\x64\Debug\WindowsFormsApp1.pdb
+D:\Рабочий стол\Инвестиционный проект\Программы\Расчёт настроек 2.00\Программа\Параллельная (CPU-I) [используемое до 11.12.21] — копия\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+D:\Рабочий стол\Инвестиционный проект\Программы\Расчёт настроек 2.00\Программа\Параллельная (CPU-I) [используемое до 11.12.21] — копия\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+D:\Рабочий стол\Инвестиционный проект\Программы\Расчёт настроек 2.00\Программа\Параллельная (CPU-I) [используемое до 11.12.21] — копия\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.Form1.resources
+D:\Рабочий стол\Инвестиционный проект\Программы\Расчёт настроек 2.00\Программа\Параллельная (CPU-I) [используемое до 11.12.21] — копия\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\Рабочий стол\Инвестиционный проект\Программы\Расчёт настроек 2.00\Программа\Параллельная (CPU-I) [используемое до 11.12.21] — копия\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\Рабочий стол\Инвестиционный проект\Программы\Расчёт настроек 2.00\Программа\Параллельная (CPU-I) [используемое до 11.12.21] — копия\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\Рабочий стол\Инвестиционный проект\Программы\Расчёт настроек 2.00\Программа\Параллельная (CPU-I) [используемое до 11.12.21] — копия\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.exe
+D:\Рабочий стол\Инвестиционный проект\Программы\Расчёт настроек 2.00\Программа\Параллельная (CPU-I) [используемое до 11.12.21] — копия\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.pdb
+D:\Рабочий стол\Инвестиционный проект\Программы\Расчёт настроек 2.00\Программа\Параллельная (CPU-I) [OverSpeed 2] — копия\WindowsFormsApp1\bin\x64\Debug\WindowsFormsApp1.exe.config
+D:\Рабочий стол\Инвестиционный проект\Программы\Расчёт настроек 2.00\Программа\Параллельная (CPU-I) [OverSpeed 2] — копия\WindowsFormsApp1\bin\x64\Debug\WindowsFormsApp1.exe
+D:\Рабочий стол\Инвестиционный проект\Программы\Расчёт настроек 2.00\Программа\Параллельная (CPU-I) [OverSpeed 2] — копия\WindowsFormsApp1\bin\x64\Debug\WindowsFormsApp1.pdb
+D:\Рабочий стол\Инвестиционный проект\Программы\Расчёт настроек 2.00\Программа\Параллельная (CPU-I) [OverSpeed 2] — копия\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+D:\Рабочий стол\Инвестиционный проект\Программы\Расчёт настроек 2.00\Программа\Параллельная (CPU-I) [OverSpeed 2] — копия\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+D:\Рабочий стол\Инвестиционный проект\Программы\Расчёт настроек 2.00\Программа\Параллельная (CPU-I) [OverSpeed 2] — копия\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.Form1.resources
+D:\Рабочий стол\Инвестиционный проект\Программы\Расчёт настроек 2.00\Программа\Параллельная (CPU-I) [OverSpeed 2] — копия\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\Рабочий стол\Инвестиционный проект\Программы\Расчёт настроек 2.00\Программа\Параллельная (CPU-I) [OverSpeed 2] — копия\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\Рабочий стол\Инвестиционный проект\Программы\Расчёт настроек 2.00\Программа\Параллельная (CPU-I) [OverSpeed 2] — копия\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\Рабочий стол\Инвестиционный проект\Программы\Расчёт настроек 2.00\Программа\Параллельная (CPU-I) [OverSpeed 2] — копия\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.exe
+D:\Рабочий стол\Инвестиционный проект\Программы\Расчёт настроек 2.00\Программа\Параллельная (CPU-I) [OverSpeed 2] — копия\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.pdb
+D:\Рабочий стол\Параллельная (CPU-I)\WindowsFormsApp1\bin\x64\Debug\WindowsFormsApp1.exe.config
+D:\Рабочий стол\Параллельная (CPU-I)\WindowsFormsApp1\bin\x64\Debug\WindowsFormsApp1.exe
+D:\Рабочий стол\Параллельная (CPU-I)\WindowsFormsApp1\bin\x64\Debug\WindowsFormsApp1.pdb
+D:\Рабочий стол\Параллельная (CPU-I)\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+D:\Рабочий стол\Параллельная (CPU-I)\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+D:\Рабочий стол\Параллельная (CPU-I)\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.Form1.resources
+D:\Рабочий стол\Параллельная (CPU-I)\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\Рабочий стол\Параллельная (CPU-I)\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\Рабочий стол\Параллельная (CPU-I)\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\Рабочий стол\Параллельная (CPU-I)\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.exe
+D:\Рабочий стол\Параллельная (CPU-I)\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.pdb
+D:\Рабочий стол\Параллельная (CPU-I) [тензерная]\WindowsFormsApp1\bin\x64\Debug\WindowsFormsApp1.exe.config
+D:\Рабочий стол\Параллельная (CPU-I) [тензерная]\WindowsFormsApp1\bin\x64\Debug\WindowsFormsApp1.exe
+D:\Рабочий стол\Параллельная (CPU-I) [тензерная]\WindowsFormsApp1\bin\x64\Debug\WindowsFormsApp1.pdb
+D:\Рабочий стол\Параллельная (CPU-I) [тензерная]\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+D:\Рабочий стол\Параллельная (CPU-I) [тензерная]\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+D:\Рабочий стол\Параллельная (CPU-I) [тензерная]\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.Form1.resources
+D:\Рабочий стол\Параллельная (CPU-I) [тензерная]\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\Рабочий стол\Параллельная (CPU-I) [тензерная]\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\Рабочий стол\Параллельная (CPU-I) [тензерная]\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\Рабочий стол\Параллельная (CPU-I) [тензерная]\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.exe
+D:\Рабочий стол\Параллельная (CPU-I) [тензерная]\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.pdb
+D:\Рабочий стол\Инвестиционный проект\Программы\Расчёт настроек 2.00\Программа\Параллельная (CPU-I) [тензерная]\WindowsFormsApp1\bin\x64\Debug\WindowsFormsApp1.exe.config
+D:\Рабочий стол\Инвестиционный проект\Программы\Расчёт настроек 2.00\Программа\Параллельная (CPU-I) [тензерная]\WindowsFormsApp1\bin\x64\Debug\WindowsFormsApp1.exe
+D:\Рабочий стол\Инвестиционный проект\Программы\Расчёт настроек 2.00\Программа\Параллельная (CPU-I) [тензерная]\WindowsFormsApp1\bin\x64\Debug\WindowsFormsApp1.pdb
+D:\Рабочий стол\Инвестиционный проект\Программы\Расчёт настроек 2.00\Программа\Параллельная (CPU-I) [тензерная]\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+D:\Рабочий стол\Инвестиционный проект\Программы\Расчёт настроек 2.00\Программа\Параллельная (CPU-I) [тензерная]\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+D:\Рабочий стол\Инвестиционный проект\Программы\Расчёт настроек 2.00\Программа\Параллельная (CPU-I) [тензерная]\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.Form1.resources
+D:\Рабочий стол\Инвестиционный проект\Программы\Расчёт настроек 2.00\Программа\Параллельная (CPU-I) [тензерная]\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\Рабочий стол\Инвестиционный проект\Программы\Расчёт настроек 2.00\Программа\Параллельная (CPU-I) [тензерная]\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\Рабочий стол\Инвестиционный проект\Программы\Расчёт настроек 2.00\Программа\Параллельная (CPU-I) [тензерная]\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\Рабочий стол\Инвестиционный проект\Программы\Расчёт настроек 2.00\Программа\Параллельная (CPU-I) [тензерная]\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.exe
+D:\Рабочий стол\Инвестиционный проект\Программы\Расчёт настроек 2.00\Программа\Параллельная (CPU-I) [тензерная]\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.pdb
+D:\Рабочий стол\Инвестиционный проект\Программы\Расчёт настроек 2.00\Программа\Параллельная (CPU-I) [тензерная комплексная]\WindowsFormsApp1\bin\x64\Debug\WindowsFormsApp1.exe.config
+D:\Рабочий стол\Инвестиционный проект\Программы\Расчёт настроек 2.00\Программа\Параллельная (CPU-I) [тензерная комплексная]\WindowsFormsApp1\bin\x64\Debug\WindowsFormsApp1.exe
+D:\Рабочий стол\Инвестиционный проект\Программы\Расчёт настроек 2.00\Программа\Параллельная (CPU-I) [тензерная комплексная]\WindowsFormsApp1\bin\x64\Debug\WindowsFormsApp1.pdb
+D:\Рабочий стол\Инвестиционный проект\Программы\Расчёт настроек 2.00\Программа\Параллельная (CPU-I) [тензерная комплексная]\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+D:\Рабочий стол\Инвестиционный проект\Программы\Расчёт настроек 2.00\Программа\Параллельная (CPU-I) [тензерная комплексная]\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+D:\Рабочий стол\Инвестиционный проект\Программы\Расчёт настроек 2.00\Программа\Параллельная (CPU-I) [тензерная комплексная]\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.Form1.resources
+D:\Рабочий стол\Инвестиционный проект\Программы\Расчёт настроек 2.00\Программа\Параллельная (CPU-I) [тензерная комплексная]\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\Рабочий стол\Инвестиционный проект\Программы\Расчёт настроек 2.00\Программа\Параллельная (CPU-I) [тензерная комплексная]\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\Рабочий стол\Инвестиционный проект\Программы\Расчёт настроек 2.00\Программа\Параллельная (CPU-I) [тензерная комплексная]\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\Рабочий стол\Инвестиционный проект\Программы\Расчёт настроек 2.00\Программа\Параллельная (CPU-I) [тензерная комплексная]\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.exe
+D:\Рабочий стол\Инвестиционный проект\Программы\Расчёт настроек 2.00\Программа\Параллельная (CPU-I) [тензерная комплексная]\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.pdb
+D:\Рабочий стол\Новая папка (2)\WindowsFormsApp1\bin\x64\Debug\WindowsFormsApp1.exe.config
+D:\Рабочий стол\Новая папка (2)\WindowsFormsApp1\bin\x64\Debug\WindowsFormsApp1.exe
+D:\Рабочий стол\Новая папка (2)\WindowsFormsApp1\bin\x64\Debug\WindowsFormsApp1.pdb
+D:\Рабочий стол\Новая папка (2)\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+D:\Рабочий стол\Новая папка (2)\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+D:\Рабочий стол\Новая папка (2)\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.Form1.resources
+D:\Рабочий стол\Новая папка (2)\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\Рабочий стол\Новая папка (2)\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\Рабочий стол\Новая папка (2)\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\Рабочий стол\Новая папка (2)\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.exe
+D:\Рабочий стол\Новая папка (2)\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.pdb
+D:\Рабочий стол\Инвестиционный проект\Программы\Расчёт настроек 2.00\Программа\Параллельная (CPU-I) [тензерная комплексная подгрузочная]\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+D:\Рабочий стол\Инвестиционный проект\Программы\Расчёт настроек 2.00\Программа\Параллельная (CPU-I) [тензерная комплексная подгрузочная]\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.Form1.resources
+D:\Рабочий стол\Инвестиционный проект\Программы\Расчёт настроек 2.00\Программа\Параллельная (CPU-I) [тензерная комплексная подгрузочная]\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\Рабочий стол\Инвестиционный проект\Программы\Расчёт настроек 2.00\Программа\Параллельная (CPU-I) [тензерная комплексная подгрузочная]\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\Рабочий стол\Параллельная (CPU-I) [тензерная комплексная]\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+D:\Рабочий стол\Параллельная (CPU-I) [тензерная комплексная]\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+D:\Рабочий стол\Параллельная (CPU-I) [тензерная комплексная]\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.Form1.resources
+D:\Рабочий стол\Параллельная (CPU-I) [тензерная комплексная]\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\Рабочий стол\Параллельная (CPU-I) [тензерная комплексная]\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\Рабочий стол\Инвестиционный проект\Программы\Расчёт настроек 2.00\Программа\Параллельная (CPU-I) [тензерная комплексная подгрузочная]\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+D:\Рабочий стол\Инвестиционный проект\Программы\Расчёт настроек 2.00\Программа\Параллельная (CPU-I) [тензерная комплексная подгрузочная]\WindowsFormsApp1\bin\x64\Debug\TensorComplexCutable.exe.config
+D:\Рабочий стол\Инвестиционный проект\Программы\Расчёт настроек 2.00\Программа\Параллельная (CPU-I) [тензерная комплексная подгрузочная]\WindowsFormsApp1\bin\x64\Debug\TensorComplexCutable.exe
+D:\Рабочий стол\Инвестиционный проект\Программы\Расчёт настроек 2.00\Программа\Параллельная (CPU-I) [тензерная комплексная подгрузочная]\WindowsFormsApp1\bin\x64\Debug\TensorComplexCutable.pdb
+D:\Рабочий стол\Инвестиционный проект\Программы\Расчёт настроек 2.00\Программа\Параллельная (CPU-I) [тензерная комплексная подгрузочная]\WindowsFormsApp1\obj\x64\Debug\TensorComplexCutable.Properties.Resources.resources
+D:\Рабочий стол\Инвестиционный проект\Программы\Расчёт настроек 2.00\Программа\Параллельная (CPU-I) [тензерная комплексная подгрузочная]\WindowsFormsApp1\obj\x64\Debug\TensorComplexCutable.exe
+D:\Рабочий стол\Инвестиционный проект\Программы\Расчёт настроек 2.00\Программа\Параллельная (CPU-I) [тензерная комплексная подгрузочная]\WindowsFormsApp1\obj\x64\Debug\TensorComplexCutable.pdb
+D:\Рабочий стол\Параллельная (CPU-I) [тензерная комплексная]\WindowsFormsApp1\bin\x64\Debug\TensorComplexCutable.exe.config
+D:\Рабочий стол\Параллельная (CPU-I) [тензерная комплексная]\WindowsFormsApp1\bin\x64\Debug\TensorComplexCutable.exe
+D:\Рабочий стол\Параллельная (CPU-I) [тензерная комплексная]\WindowsFormsApp1\bin\x64\Debug\TensorComplexCutable.pdb
+D:\Рабочий стол\Параллельная (CPU-I) [тензерная комплексная]\WindowsFormsApp1\obj\x64\Debug\TensorComplexCutable.Properties.Resources.resources
+D:\Рабочий стол\Параллельная (CPU-I) [тензерная комплексная]\WindowsFormsApp1\obj\x64\Debug\TensorComplexCutable.exe
+D:\Рабочий стол\Параллельная (CPU-I) [тензерная комплексная]\WindowsFormsApp1\obj\x64\Debug\TensorComplexCutable.pdb
+D:\Рабочий стол\Инвестиционный проект\Программы\Расчёт настроек 2.00\Программа\Параллельная (CPU-I) [тензерная комплексная режущая]\WindowsFormsApp1\bin\x64\Debug\TensorComplexCutable.exe.config
+D:\Рабочий стол\Инвестиционный проект\Программы\Расчёт настроек 2.00\Программа\Параллельная (CPU-I) [тензерная комплексная режущая]\WindowsFormsApp1\bin\x64\Debug\TensorComplexCutable.exe
+D:\Рабочий стол\Инвестиционный проект\Программы\Расчёт настроек 2.00\Программа\Параллельная (CPU-I) [тензерная комплексная режущая]\WindowsFormsApp1\bin\x64\Debug\TensorComplexCutable.pdb
+D:\Рабочий стол\Инвестиционный проект\Программы\Расчёт настроек 2.00\Программа\Параллельная (CPU-I) [тензерная комплексная режущая]\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+D:\Рабочий стол\Инвестиционный проект\Программы\Расчёт настроек 2.00\Программа\Параллельная (CPU-I) [тензерная комплексная режущая]\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+D:\Рабочий стол\Инвестиционный проект\Программы\Расчёт настроек 2.00\Программа\Параллельная (CPU-I) [тензерная комплексная режущая]\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.Form1.resources
+D:\Рабочий стол\Инвестиционный проект\Программы\Расчёт настроек 2.00\Программа\Параллельная (CPU-I) [тензерная комплексная режущая]\WindowsFormsApp1\obj\x64\Debug\TensorComplexCutable.Properties.Resources.resources
+D:\Рабочий стол\Инвестиционный проект\Программы\Расчёт настроек 2.00\Программа\Параллельная (CPU-I) [тензерная комплексная режущая]\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\Рабочий стол\Инвестиционный проект\Программы\Расчёт настроек 2.00\Программа\Параллельная (CPU-I) [тензерная комплексная режущая]\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\Рабочий стол\Инвестиционный проект\Программы\Расчёт настроек 2.00\Программа\Параллельная (CPU-I) [тензерная комплексная режущая]\WindowsFormsApp1\obj\x64\Debug\TensorComplexCutable.exe
+D:\Рабочий стол\Инвестиционный проект\Программы\Расчёт настроек 2.00\Программа\Параллельная (CPU-I) [тензерная комплексная режущая]\WindowsFormsApp1\obj\x64\Debug\TensorComplexCutable.pdb
+D:\Рабочий стол\Параллельная (CPU-I) [тензерная комплексная режущая] — копия (2)\WindowsFormsApp1\bin\x64\Debug\TensorComplexCutable.exe.config
+D:\Рабочий стол\Параллельная (CPU-I) [тензерная комплексная режущая] — копия (2)\WindowsFormsApp1\bin\x64\Debug\TensorComplexCutable.exe
+D:\Рабочий стол\Параллельная (CPU-I) [тензерная комплексная режущая] — копия (2)\WindowsFormsApp1\bin\x64\Debug\TensorComplexCutable.pdb
+D:\Рабочий стол\Параллельная (CPU-I) [тензерная комплексная режущая] — копия (2)\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+D:\Рабочий стол\Параллельная (CPU-I) [тензерная комплексная режущая] — копия (2)\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+D:\Рабочий стол\Параллельная (CPU-I) [тензерная комплексная режущая] — копия (2)\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.Form1.resources
+D:\Рабочий стол\Параллельная (CPU-I) [тензерная комплексная режущая] — копия (2)\WindowsFormsApp1\obj\x64\Debug\TensorComplexCutable.Properties.Resources.resources
+D:\Рабочий стол\Параллельная (CPU-I) [тензерная комплексная режущая] — копия (2)\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\Рабочий стол\Параллельная (CPU-I) [тензерная комплексная режущая] — копия (2)\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\Рабочий стол\Параллельная (CPU-I) [тензерная комплексная режущая] — копия (2)\WindowsFormsApp1\obj\x64\Debug\TensorComplexCutable.exe
+D:\Рабочий стол\Параллельная (CPU-I) [тензерная комплексная режущая] — копия (2)\WindowsFormsApp1\obj\x64\Debug\TensorComplexCutable.pdb
+D:\Рабочий стол\Параллельная (CPU-I) [тензерная комплексная режущая] — копия (4) — копия\WindowsFormsApp1\bin\x64\Debug\TensorComplexCutable.exe.config
+D:\Рабочий стол\Параллельная (CPU-I) [тензерная комплексная режущая] — копия (4) — копия\WindowsFormsApp1\bin\x64\Debug\TensorComplexCutable.exe
+D:\Рабочий стол\Параллельная (CPU-I) [тензерная комплексная режущая] — копия (4) — копия\WindowsFormsApp1\bin\x64\Debug\TensorComplexCutable.pdb
+D:\Рабочий стол\Параллельная (CPU-I) [тензерная комплексная режущая] — копия (4) — копия\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+D:\Рабочий стол\Параллельная (CPU-I) [тензерная комплексная режущая] — копия (4) — копия\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+D:\Рабочий стол\Параллельная (CPU-I) [тензерная комплексная режущая] — копия (4) — копия\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.Form1.resources
+D:\Рабочий стол\Параллельная (CPU-I) [тензерная комплексная режущая] — копия (4) — копия\WindowsFormsApp1\obj\x64\Debug\TensorComplexCutable.Properties.Resources.resources
+D:\Рабочий стол\Параллельная (CPU-I) [тензерная комплексная режущая] — копия (4) — копия\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\Рабочий стол\Параллельная (CPU-I) [тензерная комплексная режущая] — копия (4) — копия\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\Рабочий стол\Параллельная (CPU-I) [тензерная комплексная режущая] — копия (4) — копия\WindowsFormsApp1\obj\x64\Debug\TensorComplexCutable.exe
+D:\Рабочий стол\Параллельная (CPU-I) [тензерная комплексная режущая] — копия (4) — копия\WindowsFormsApp1\obj\x64\Debug\TensorComplexCutable.pdb
+D:\Рабочий стол\Параллельная (CPU-I) [тензерная комплексная режущая] — копия (4) — копия — копия\WindowsFormsApp1\bin\x64\Debug\TensorComplexCutable.exe.config
+D:\Рабочий стол\Параллельная (CPU-I) [тензерная комплексная режущая] — копия (4) — копия — копия\WindowsFormsApp1\bin\x64\Debug\TensorComplexCutable.exe
+D:\Рабочий стол\Параллельная (CPU-I) [тензерная комплексная режущая] — копия (4) — копия — копия\WindowsFormsApp1\bin\x64\Debug\TensorComplexCutable.pdb
+D:\Рабочий стол\Параллельная (CPU-I) [тензерная комплексная режущая] — копия (4) — копия — копия\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+D:\Рабочий стол\Параллельная (CPU-I) [тензерная комплексная режущая] — копия (4) — копия — копия\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+D:\Рабочий стол\Параллельная (CPU-I) [тензерная комплексная режущая] — копия (4) — копия — копия\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.Form1.resources
+D:\Рабочий стол\Параллельная (CPU-I) [тензерная комплексная режущая] — копия (4) — копия — копия\WindowsFormsApp1\obj\x64\Debug\TensorComplexCutable.Properties.Resources.resources
+D:\Рабочий стол\Параллельная (CPU-I) [тензерная комплексная режущая] — копия (4) — копия — копия\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\Рабочий стол\Параллельная (CPU-I) [тензерная комплексная режущая] — копия (4) — копия — копия\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\Рабочий стол\Параллельная (CPU-I) [тензерная комплексная режущая] — копия (4) — копия — копия\WindowsFormsApp1\obj\x64\Debug\TensorComplexCutable.exe
+D:\Рабочий стол\Параллельная (CPU-I) [тензерная комплексная режущая] — копия (4) — копия — копия\WindowsFormsApp1\obj\x64\Debug\TensorComplexCutable.pdb
+D:\Рабочий стол\Параллельная (CPU-I) [переборочная комплексная режущая отлаженная] — копия\WindowsFormsApp1\bin\x64\Debug\TensorComplexCutable.exe.config
+D:\Рабочий стол\Параллельная (CPU-I) [переборочная комплексная режущая отлаженная] — копия\WindowsFormsApp1\bin\x64\Debug\TensorComplexCutable.exe
+D:\Рабочий стол\Параллельная (CPU-I) [переборочная комплексная режущая отлаженная] — копия\WindowsFormsApp1\bin\x64\Debug\TensorComplexCutable.pdb
+D:\Рабочий стол\Параллельная (CPU-I) [переборочная комплексная режущая отлаженная] — копия\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+D:\Рабочий стол\Параллельная (CPU-I) [переборочная комплексная режущая отлаженная] — копия\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+D:\Рабочий стол\Параллельная (CPU-I) [переборочная комплексная режущая отлаженная] — копия\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.Form1.resources
+D:\Рабочий стол\Параллельная (CPU-I) [переборочная комплексная режущая отлаженная] — копия\WindowsFormsApp1\obj\x64\Debug\TensorComplexCutable.Properties.Resources.resources
+D:\Рабочий стол\Параллельная (CPU-I) [переборочная комплексная режущая отлаженная] — копия\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\Рабочий стол\Параллельная (CPU-I) [переборочная комплексная режущая отлаженная] — копия\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\Рабочий стол\Параллельная (CPU-I) [переборочная комплексная режущая отлаженная] — копия\WindowsFormsApp1\obj\x64\Debug\TensorComplexCutable.exe
+D:\Рабочий стол\Параллельная (CPU-I) [переборочная комплексная режущая отлаженная] — копия\WindowsFormsApp1\obj\x64\Debug\TensorComplexCutable.pdb
+D:\Рабочий стол\Параллельная (CPU-I) [переборочная комплексная режущая отлаженная]\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+D:\Рабочий стол\Параллельная (CPU-I) [переборочная комплексная режущая отлаженная]\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+D:\Рабочий стол\Параллельная (CPU-I) [переборочная комплексная режущая отлаженная]\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.Form1.resources
+D:\Рабочий стол\Параллельная (CPU-I) [переборочная комплексная режущая отлаженная]\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\Рабочий стол\Параллельная (CPU-I) [переборочная комплексная режущая отлаженная]\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Параллельная (CPU-I) [переборочная комплексная режущая отлаженная]\WindowsFormsApp1\bin\x64\Debug\TensorComplexCutable.exe.config
+C:\Параллельная (CPU-I) [переборочная комплексная режущая отлаженная]\WindowsFormsApp1\bin\x64\Debug\TensorComplexCutable.exe
+C:\Параллельная (CPU-I) [переборочная комплексная режущая отлаженная]\WindowsFormsApp1\bin\x64\Debug\TensorComplexCutable.pdb
+C:\Параллельная (CPU-I) [переборочная комплексная режущая отлаженная]\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Параллельная (CPU-I) [переборочная комплексная режущая отлаженная]\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+C:\Параллельная (CPU-I) [переборочная комплексная режущая отлаженная]\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.Form1.resources
+C:\Параллельная (CPU-I) [переборочная комплексная режущая отлаженная]\WindowsFormsApp1\obj\x64\Debug\TensorComplexCutable.Properties.Resources.resources
+C:\Параллельная (CPU-I) [переборочная комплексная режущая отлаженная]\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Параллельная (CPU-I) [переборочная комплексная режущая отлаженная]\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Параллельная (CPU-I) [переборочная комплексная режущая отлаженная]\WindowsFormsApp1\obj\x64\Debug\TensorComplexCutable.exe
+C:\Параллельная (CPU-I) [переборочная комплексная режущая отлаженная]\WindowsFormsApp1\obj\x64\Debug\TensorComplexCutable.pdb
+D:\Рабочий стол\Инвестиционный проект\Программы\Расчёт настроек 2.00\Программа\Параллельная (CPU-I) [переборочная комплексная режущая отлаженная]\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+D:\Рабочий стол\Инвестиционный проект\Программы\Расчёт настроек 2.00\Программа\Параллельная (CPU-I) [переборочная комплексная режущая отлаженная]\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+D:\Рабочий стол\Инвестиционный проект\Программы\Расчёт настроек 2.00\Программа\Параллельная (CPU-I) [переборочная комплексная режущая отлаженная]\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.Form1.resources
+D:\Рабочий стол\Инвестиционный проект\Программы\Расчёт настроек 2.00\Программа\Параллельная (CPU-I) [переборочная комплексная режущая отлаженная]\WindowsFormsApp1\obj\x64\Debug\TensorComplexCutable.Properties.Resources.resources
+D:\Рабочий стол\Инвестиционный проект\Программы\Расчёт настроек 2.00\Программа\Параллельная (CPU-I) [переборочная комплексная режущая отлаженная]\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\Рабочий стол\Инвестиционный проект\Программы\Расчёт настроек 2.00\Программа\Параллельная (CPU-I) [переборочная комплексная режущая отлаженная]\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\Рабочий стол\Инвестиционный проект\Программы\Расчёт настроек 2.00\Программа\Параллельная (CPU-I) [переборочная комплексная режущая отлаженная]\WindowsFormsApp1\bin\x64\Debug\TensorComplexCutable_x2.exe.config
+D:\Рабочий стол\Инвестиционный проект\Программы\Расчёт настроек 2.00\Программа\Параллельная (CPU-I) [переборочная комплексная режущая отлаженная]\WindowsFormsApp1\bin\x64\Debug\TensorComplexCutable_x2.exe
+D:\Рабочий стол\Инвестиционный проект\Программы\Расчёт настроек 2.00\Программа\Параллельная (CPU-I) [переборочная комплексная режущая отлаженная]\WindowsFormsApp1\bin\x64\Debug\TensorComplexCutable_x2.pdb
+D:\Рабочий стол\Инвестиционный проект\Программы\Расчёт настроек 2.00\Программа\Параллельная (CPU-I) [переборочная комплексная режущая отлаженная]\WindowsFormsApp1\obj\x64\Debug\TensorComplexCutable_x2.exe
+D:\Рабочий стол\Инвестиционный проект\Программы\Расчёт настроек 2.00\Программа\Параллельная (CPU-I) [переборочная комплексная режущая отлаженная]\WindowsFormsApp1\obj\x64\Debug\TensorComplexCutable_x2.pdb
+D:\Рабочий стол\Параллельная (CPU-I) [переборочная комплексная режущая отлаженная]\WindowsFormsApp1\bin\x64\Debug\TensorComplexCutable_x4.exe.config
+D:\Рабочий стол\Параллельная (CPU-I) [переборочная комплексная режущая отлаженная]\WindowsFormsApp1\bin\x64\Debug\TensorComplexCutable_x4.exe
+D:\Рабочий стол\Параллельная (CPU-I) [переборочная комплексная режущая отлаженная]\WindowsFormsApp1\bin\x64\Debug\TensorComplexCutable_x4.pdb
+D:\Рабочий стол\Параллельная (CPU-I) [переборочная комплексная режущая отлаженная]\WindowsFormsApp1\obj\x64\Debug\TensorComplexCutable_x41.Properties.Resources.resources
+D:\Рабочий стол\Параллельная (CPU-I) [переборочная комплексная режущая отлаженная]\WindowsFormsApp1\obj\x64\Debug\TensorComplexCutable_x4.exe
+D:\Рабочий стол\Параллельная (CPU-I) [переборочная комплексная режущая отлаженная]\WindowsFormsApp1\obj\x64\Debug\TensorComplexCutable_x4.pdb
+E:\Параллельная (CPU-I) [переборочная комплексная режущая отлаженная]\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+E:\Параллельная (CPU-I) [переборочная комплексная режущая отлаженная]\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+E:\Параллельная (CPU-I) [переборочная комплексная режущая отлаженная]\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.Form1.resources
+E:\Параллельная (CPU-I) [переборочная комплексная режущая отлаженная]\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+E:\Параллельная (CPU-I) [переборочная комплексная режущая отлаженная]\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+E:\Параллельная (CPU-I) [переборочная комплексная режущая отлаженная]\WindowsFormsApp1\bin\x64\Debug\TensorComplexCutable_x5.exe.config
+E:\Параллельная (CPU-I) [переборочная комплексная режущая отлаженная]\WindowsFormsApp1\bin\x64\Debug\TensorComplexCutable_x5.exe
+E:\Параллельная (CPU-I) [переборочная комплексная режущая отлаженная]\WindowsFormsApp1\bin\x64\Debug\TensorComplexCutable_x5.pdb
+E:\Параллельная (CPU-I) [переборочная комплексная режущая отлаженная]\WindowsFormsApp1\obj\x64\Debug\TensorComplexCutable_x51.Properties.Resources.resources
+E:\Параллельная (CPU-I) [переборочная комплексная режущая отлаженная]\WindowsFormsApp1\obj\x64\Debug\TensorComplexCutable_x5.exe
+E:\Параллельная (CPU-I) [переборочная комплексная режущая отлаженная]\WindowsFormsApp1\obj\x64\Debug\TensorComplexCutable_x5.pdb
+D:\Рабочий стол\,Программирование\Visual Studio\Параллельная (CPU-I) [переборочная комплексная режущая отлаженная]\WindowsFormsApp1\bin\x64\Debug\TensorComplexCutable_x5.exe.config
+D:\Рабочий стол\,Программирование\Visual Studio\Параллельная (CPU-I) [переборочная комплексная режущая отлаженная]\WindowsFormsApp1\bin\x64\Debug\TensorComplexCutable_x5.exe
+D:\Рабочий стол\,Программирование\Visual Studio\Параллельная (CPU-I) [переборочная комплексная режущая отлаженная]\WindowsFormsApp1\bin\x64\Debug\TensorComplexCutable_x5.pdb
+D:\Рабочий стол\,Программирование\Visual Studio\Параллельная (CPU-I) [переборочная комплексная режущая отлаженная]\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+D:\Рабочий стол\,Программирование\Visual Studio\Параллельная (CPU-I) [переборочная комплексная режущая отлаженная]\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+D:\Рабочий стол\,Программирование\Visual Studio\Параллельная (CPU-I) [переборочная комплексная режущая отлаженная]\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.Form1.resources
+D:\Рабочий стол\,Программирование\Visual Studio\Параллельная (CPU-I) [переборочная комплексная режущая отлаженная]\WindowsFormsApp1\obj\x64\Debug\TensorComplexCutable_x51.Properties.Resources.resources
+D:\Рабочий стол\,Программирование\Visual Studio\Параллельная (CPU-I) [переборочная комплексная режущая отлаженная]\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\Рабочий стол\,Программирование\Visual Studio\Параллельная (CPU-I) [переборочная комплексная режущая отлаженная]\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\Рабочий стол\,Программирование\Visual Studio\Параллельная (CPU-I) [переборочная комплексная режущая отлаженная]\WindowsFormsApp1\obj\x64\Debug\TensorComplexCutable_x5.exe
+D:\Рабочий стол\,Программирование\Visual Studio\Параллельная (CPU-I) [переборочная комплексная режущая отлаженная]\WindowsFormsApp1\obj\x64\Debug\TensorComplexCutable_x5.pdb
+D:\Рабочий стол\C#\Bot parallel tester\WindowsFormsApp1\bin\x64\Debug\TensorComplexCutable_x5.exe.config
+D:\Рабочий стол\C#\Bot parallel tester\WindowsFormsApp1\bin\x64\Debug\TensorComplexCutable_x5.exe
+D:\Рабочий стол\C#\Bot parallel tester\WindowsFormsApp1\bin\x64\Debug\TensorComplexCutable_x5.pdb
+D:\Рабочий стол\C#\Bot parallel tester\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+D:\Рабочий стол\C#\Bot parallel tester\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+D:\Рабочий стол\C#\Bot parallel tester\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.Form1.resources
+D:\Рабочий стол\C#\Bot parallel tester\WindowsFormsApp1\obj\x64\Debug\TensorComplexCutable_x51.Properties.Resources.resources
+D:\Рабочий стол\C#\Bot parallel tester\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\Рабочий стол\C#\Bot parallel tester\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\Рабочий стол\C#\Bot parallel tester\WindowsFormsApp1\obj\x64\Debug\TensorComplexCutable_x5.exe
+D:\Рабочий стол\C#\Bot parallel tester\WindowsFormsApp1\obj\x64\Debug\TensorComplexCutable_x5.pdb
+D:\Рабочий стол\C#\Новая папка\Bot parallel tester\WindowsFormsApp1\bin\x64\Debug\TensorComplexCutable_x5.exe.config
+D:\Рабочий стол\C#\Новая папка\Bot parallel tester\WindowsFormsApp1\bin\x64\Debug\TensorComplexCutable_x5.exe
+D:\Рабочий стол\C#\Новая папка\Bot parallel tester\WindowsFormsApp1\bin\x64\Debug\TensorComplexCutable_x5.pdb
+D:\Рабочий стол\C#\Новая папка\Bot parallel tester\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+D:\Рабочий стол\C#\Новая папка\Bot parallel tester\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.Form1.resources
+D:\Рабочий стол\C#\Новая папка\Bot parallel tester\WindowsFormsApp1\obj\x64\Debug\TensorComplexCutable_x51.Properties.Resources.resources
+D:\Рабочий стол\C#\Новая папка\Bot parallel tester\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\Рабочий стол\C#\Новая папка\Bot parallel tester\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\Рабочий стол\C#\Новая папка\Bot parallel tester\WindowsFormsApp1\obj\x64\Debug\TensorComplexCutable_x5.exe
+D:\Рабочий стол\C#\Новая папка\Bot parallel tester\WindowsFormsApp1\obj\x64\Debug\TensorComplexCutable_x5.pdb
